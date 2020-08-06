@@ -7,4 +7,5 @@ when ppp0 VPN is connected, then only private IPs of that private network can be
 - Once you are connected to ppp0-VPN
 - Run this bash script
 > chmod +x router-ppp0toint.sh
+
 > ./router-ppp0toint.sh
